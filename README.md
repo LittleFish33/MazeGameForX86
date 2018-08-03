@@ -22,4 +22,4 @@
 ![](https://raw.githubusercontent.com/LittleFish33/MazeGameForX86/master/image/MazeGame1.png)
 
 # 更多信息请参考博客：
-[计算机组成原理与接口设计——期中课程设计：使用X86编程语言实现的迷宫游戏](http://littlefish33.cn/COD/MazeGame/)
+[计算机组成原理与接口设计——期中课程设计：使用X86编程语言实现的迷宫游戏](https://littlefish33.cn/COD/MazeGame/)
